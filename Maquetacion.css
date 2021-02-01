@@ -54,10 +54,9 @@ p{
     background-color: black; 
     color: white;
     font-family:arial , helvetica , sans-serif;
-    text-align: justify;
-}
+    text-align: center}
 
-b{
+br{
     background-color: black; 
     color: white;
     font-family:arial , helvetica , sans-serif;
@@ -68,7 +67,7 @@ div{
     background-color: black; 
     color: white;
     font-family:arial , helvetica , sans-serif;
-    text-align: justify;
+    text-align: center;
 }
 
 h2{
